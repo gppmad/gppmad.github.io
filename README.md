@@ -31,4 +31,4 @@ Build the static site:
 hugo
 ```
 
-The generated files will be in the `public/` directory.
+The generated files will be in the `public/` directory
