@@ -1,0 +1,24 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'My Blog'
+theme = 'PaperMod'
+
+[params]
+author = "Giuseppe Maddiona"
+description = "My personal blog"
+homeSubtitle = "Welcome to my blog"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com"
+
+[menu]
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Posts"
+url = "/posts/"
+weight = 2
