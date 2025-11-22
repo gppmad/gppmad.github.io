@@ -17,9 +17,3 @@ hideAuthor = true
 [[params.socialIcons]]
 name = "github"
 url = "https://github.com"
-
-[menu]
-[[menu.main]]
-name = "Posts"
-url = "/posts/"
-weight = 1
