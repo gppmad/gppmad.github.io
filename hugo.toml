@@ -1,12 +1,18 @@
 baseURL = 'https://gppmad.github.io/'
 languageCode = 'en-us'
-title = 'My Blog'
+title = "Blog"
 theme = 'PaperMod'
 
 [params]
 author = "Giuseppe Maddiona"
-description = "Giuseppe's blog"
-homeSubtitle = "Welcome!"
+description = "Blog"
+defaultTheme = "light"
+disableThemeToggle = true
+ShowPostNavLinks = true
+ShowCodeCopyButtons = true
+mainSections = ["posts"]
+disableSpecial1stPost = true
+hideAuthor = true
 
 [[params.socialIcons]]
 name = "github"
@@ -14,11 +20,6 @@ url = "https://github.com"
 
 [menu]
 [[menu.main]]
-name = "Home"
-url = "/"
-weight = 1
-
-[[menu.main]]
 name = "Posts"
 url = "/posts/"
-weight = 2
+weight = 1
