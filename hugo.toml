@@ -1,6 +1,6 @@
 baseURL = 'https://gppmad.github.io/'
 languageCode = 'en-us'
-title = "Blog"
+title = "Giuseppe Maddiona"
 theme = 'PaperMod'
 
 [params]
@@ -13,6 +13,9 @@ ShowCodeCopyButtons = true
 mainSections = ["posts"]
 disableSpecial1stPost = true
 hideAuthor = true
+
+[params.label]
+text = "Blog"
 
 [[params.socialIcons]]
 name = "github"
