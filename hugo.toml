@@ -1,12 +1,12 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://gppmad.github.io/'
 languageCode = 'en-us'
 title = 'My Blog'
 theme = 'PaperMod'
 
 [params]
 author = "Giuseppe Maddiona"
-description = "My personal blog"
-homeSubtitle = "Welcome to my blog"
+description = "Giuseppe's blog"
+homeSubtitle = "Welcome!"
 
 [[params.socialIcons]]
 name = "github"
