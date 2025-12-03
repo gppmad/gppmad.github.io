@@ -28,11 +28,11 @@ name = "github"
 url = "https://github.com"
 
 [[menu.main]]
-name = "About"
-url = "/about/"
+name = "Blog"
+url = "/"
 weight = 10
 
 [[menu.main]]
-name = "Blog"
-url = "/"
+name = "About"
+url = "/about/"
 weight = 20

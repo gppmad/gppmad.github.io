@@ -22,9 +22,9 @@ I don't have a specific list of things I'm interested in, but if I really need t
 - Writing
 - Tennis
 - Swimming
-- Carrying weights
+- Weight Lifting
 
 The list is definitely not ordered by importance.
 I would also list Food and Cooking as a separate item.
 
-Since I am Italian (from Sicily) the quality of the dishes (and of the coffee) plays an important role in my life.
+Since I am Italian (from Sicily) the quality of the dishes (and of the coffee) plays an important role in my life! :)

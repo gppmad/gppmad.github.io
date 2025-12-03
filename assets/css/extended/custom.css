@@ -1,0 +1,16 @@
+/* Custom profile picture in header */
+.profile-pic-header {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-right: 12px;
+    vertical-align: middle;
+    border: 2px solid var(--border);
+}
+
+/* Adjust logo alignment */
+.logo {
+    display: flex;
+    align-items: center;
+}
