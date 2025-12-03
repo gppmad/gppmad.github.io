@@ -14,9 +14,25 @@ mainSections = ["posts"]
 disableSpecial1stPost = true
 hideAuthor = true
 
+[params.assets]
+favicon = "/profile_pic.jpeg"
+favicon16x16 = "/profile_pic.jpeg"
+favicon32x32 = "/profile_pic.jpeg"
+apple_touch_icon = "/profile_pic.jpeg"
+
 [params.label]
 text = "Blog"
 
 [[params.socialIcons]]
 name = "github"
 url = "https://github.com"
+
+[[menu.main]]
+name = "About"
+url = "/about/"
+weight = 10
+
+[[menu.main]]
+name = "Blog"
+url = "/"
+weight = 20
