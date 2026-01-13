@@ -3,8 +3,7 @@ date = '2025-11-12T10:11:20+01:00'
 draft = false
 title = 'Hi Everyone!'
 description = 'Welcome to my blog!'
-tags = []
-categories = ['General']
+ShowPostNavLinks = false
 +++
 
 Hi Guys, I am Giuseppe and I am passionate about technology.  
